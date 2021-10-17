@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinpurnamaa
 - 👀 I’m interested in Web Development and System Analysis
-- 🌱 I’m currently learning at Binus University
+- 🌱 I’m currently student at **Binus University**
 - 📫 Reach me at alvinpurnama26@gmail.com
 
 <!---
